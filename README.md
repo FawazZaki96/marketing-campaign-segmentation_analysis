@@ -98,7 +98,7 @@ This project aims to answer:
 
 ## 📈 Dashboard Overview
 
-![Dashboard](images/Marketing_Analysis_Dashboard.png)
+![Dashboard](images/Dashboard_Marketing_Analysis.png)
 
 ---
 
